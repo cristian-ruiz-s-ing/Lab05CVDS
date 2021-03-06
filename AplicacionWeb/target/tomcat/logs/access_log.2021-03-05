@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:22:39:22 -0500] "GET /helloServlet?name=crhystian HTTP/1.1" 200 27 http-bio-8080-exec-1 19
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:22:39:22 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:04:49 -0500] "GET /helloServlet HTTP/1.1" 200 17 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:04:56 -0500] "GET /helloServlet?name=crhystian HTTP/1.1" 200 27 http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:05:05 -0500] "GET / HTTP/1.1" 200 587 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:05:05 -0500] "GET /validation.js HTTP/1.1" 200 161 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:05:09 -0500] "POST /LJServlet HTTP/1.1" 200 217 http-bio-8080-exec-10 331
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:05:13 -0500] "POST /LJServlet HTTP/1.1" 200 296 http-bio-8080-exec-10 10
+0:0:0:0:0:0:0:1 - - [05/Mar/2021:23:05:18 -0500] "POST /LJServlet HTTP/1.1" 200 376 http-bio-8080-exec-10 14
